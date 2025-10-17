@@ -12,4 +12,4 @@
 # Blog
 - Content available at:
 - Conteúdo disponível em:
-  https://codedelphi.com/orientacao-a-objetos-em-delphi/
+  https://www.codedelphi.com/2024/06/orientacao-a-objetos-em-delphi.html
